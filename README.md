@@ -8,7 +8,7 @@ For more info, see [these comparisions](https://easings.net/en) of various easin
 
 ## Usage
 
-```
+```javascript
 const FaceTracking = require("FaceTracking");
 const Scene = require("Scene");
 
